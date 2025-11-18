@@ -22,7 +22,7 @@
 --neutral-7: #404040;
 --neutral-8: #262626;
 --neutral-9: #171717;
---neutral-10: #ff0000;
+--neutral-10: #fff;
 
 /*******TAMAÑOS********/
 
@@ -97,7 +97,7 @@
 --img-bkg-c2: url(https://dl.dropboxusercontent.com/scl/fi/si65iav88jn4v2edp4hil/bannerhongkong.png?rlkey=xxjwq1kvve51lyvht3xdtrld8&st=3bqxct92&dl=0);
 
 /*COLORES TEXTO*/
---c-acento: #E65E3B;
+--c-acento: #DE1E53;
 --c-texto: var(--neutral);
 --c-texto-en-acento: var(--neutral);
 --c-texto-weak: var(--neutral-1);
@@ -152,7 +152,7 @@
 --img-bkg-c2: url(https://2img.net/i.imgur.com/8x1Qx78.png);
 
 /*COLORES TEXTO*/
---c-acento: #E65E3B;
+--c-acento: #D94496;
 --c-texto: var(--neutral-10);
 --c-texto-weak: var(--neutral-9);
 --c-texto-weaker: var(--neutral-8);
